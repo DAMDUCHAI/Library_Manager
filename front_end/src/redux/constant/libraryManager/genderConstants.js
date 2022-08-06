@@ -1,0 +1,2 @@
+export const GET_ALL_GENDER = 'GET_ALL_GENDER';
+export const GET_ALL_GENDER_SAGA = 'GET_ALL_GENDER_SAGA';

@@ -1,0 +1,11 @@
+export const GET_ALL_RULES = 'GET_ALL_RULES';
+export const GET_ALL_RULES_SAGA = 'GET_ALL_RULES_SAGA';
+
+export const CREATE_RULES_SAGA = 'CREATE_RULES_SAGA';
+
+export const DELETE_RULES_SAGA = 'DELETE_RULES_SAGA';
+
+export const UPDATE_RULES_SAGA = 'UPDATE_RULES_SAGA';
+
+export const GET_RULES = 'GET_RULES';
+export const GET_RULES_SAGA = 'GET_RULES_SAGA';

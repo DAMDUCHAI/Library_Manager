@@ -1,0 +1,9 @@
+
+export const CHANGE_PASS_SAGA = 'CHANGE_PASS_SAGA';
+export const GET_NAME_USER = 'GET_NAME_USER';
+export const GET_NAME_USER_SAGA = 'GET_NAME_USER_SAGA';
+export const BAN_ACOUNT_SAGA = 'BAN_ACOUNT_SAGA';
+
+
+
+

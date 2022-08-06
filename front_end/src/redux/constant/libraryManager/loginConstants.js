@@ -1,0 +1,7 @@
+export const UPDATE_LOGIN = 'UPDATE_LOGIN';
+export const NOTIFICATION_LOGIN = 'NOTIFICATION_LOGIN';
+export const SHOW_PASS = 'SHOW_PASS';
+
+
+
+
